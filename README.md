@@ -1,6 +1,4 @@
 <h3>WorkShop React For Beginners 💻⚛️</h3>
-  
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <br>
 ##React + Vite
 
@@ -13,7 +11,7 @@ Currently, two official plugins are available:
 
 <h3 aling="center">Paleta de colores de la pagina 🎨</h3>
   
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 <br>
 <center>
     <div align="start">
@@ -31,7 +29,7 @@ Currently, two official plugins are available:
 <br>
 <h3>Pagina que aspiramos a crear 🗒️</h3>
   
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 
 <img src="https://www.softzone.es/app/uploads-softzone.es/2023/11/bluesky.jpg" >
 
