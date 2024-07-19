@@ -1,4 +1,4 @@
-# React + Vite
+![image](https://github.com/user-attachments/assets/fc52da8c-8784-4410-a937-c67dba917556)# React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
@@ -10,9 +10,7 @@ Currently, two official plugins are available:
 <h3>Paleta de colores de la pagina 🎨</h3>
 <center style="display: flex;">
     <img src="https://i.imgur.com/plEOyfA.png">
-    <div style="color: #fffff; background-color: #192734; padding: 10px; width: 150px; border-radius: 5px;">
-        #192734
-    </div>
+    <img src="https://i.imgur.com/ZaXwi6D.png">
     <div style="color: #fffff; background-color: 	#22303c; padding: 10px; width: 150px; border-radius: 5px;">
         #22303c
     </div>
