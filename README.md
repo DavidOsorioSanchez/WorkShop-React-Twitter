@@ -1,4 +1,7 @@
-<h1>WorkShop React For Beginners 💻⚛️</h1>
+<h3>WorkShop React For Beginners 💻⚛️</h3>
+  
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<br>
 ##React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
@@ -9,6 +12,9 @@ Currently, two official plugins are available:
 - [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 
 <h3 aling="center">Paleta de colores de la pagina 🎨</h3>
+  
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<br>
 <center>
     <div align="start">
         <img height="100"  src="https://i.imgur.com/EidHTMM.png">
@@ -23,6 +29,12 @@ Currently, two official plugins are available:
 </center>
 
 <br>
-<h1>Pagina que aspiramos a crear 🗒️</h1>
+<h3>Pagina que aspiramos a crear 🗒️</h3>
+  
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <img src="https://www.softzone.es/app/uploads-softzone.es/2023/11/bluesky.jpg" >
+
+<br>
+<h1>Lista de pasos 📜</h1>
+
