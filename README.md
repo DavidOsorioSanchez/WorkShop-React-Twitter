@@ -9,7 +9,7 @@ Currently, two official plugins are available:
 
 <h3>Paleta de colores de la pagina 🎨</h3>
 <center style="display: flex;">
-    <img src="https://imgur.com/plEOyfA">
+    <img src="https://i.imgur.com/plEOyfA.png">
     <div style="color: #fffff; background-color: #192734; padding: 10px; width: 150px; border-radius: 5px;">
         #192734
     </div>
