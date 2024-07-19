@@ -11,7 +11,7 @@ Currently, two official plugins are available:
 - [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
 - [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 
-<h4 aling="center">Paleta de colores de la pagina 🎨</h4>
+<h3 aling="center">Paleta de colores de la pagina 🎨</h3>
   
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <br>
@@ -29,12 +29,12 @@ Currently, two official plugins are available:
 </center>
 
 <br>
-<h4>Pagina que aspiramos a crear 🗒️</h4>
+<h3>Pagina que aspiramos a crear 🗒️</h3>
   
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <img src="https://www.softzone.es/app/uploads-softzone.es/2023/11/bluesky.jpg" >
 
 <br>
-<h4>Lista de pasos 📜</h4>
+<h3>Lista de pasos 📜</h3>
 
