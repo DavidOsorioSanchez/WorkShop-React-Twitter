@@ -10,7 +10,7 @@ Currently, two official plugins are available:
 
 <h3>Paleta de colores de la pagina 🎨</h3>
 <center>
-    <img wight="50" heigth="40" src="https://i.imgur.com/Oo912Da.png">
+    <img wight="80" src="https://i.imgur.com/Oo912Da.png">
     <img src="https://i.imgur.com/Ne7Od89.png">
     <img src="https://i.imgur.com/ZX6szY9.png">
     <img src="https://i.imgur.com/bbO0o5r.png">
