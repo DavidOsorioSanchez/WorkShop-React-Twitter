@@ -11,13 +11,14 @@ Currently, two official plugins are available:
 <h3 aling="center">Paleta de colores de la pagina 🎨</h3>
 <center>
     <div align="start">
-        <img height="80"  src="https://i.imgur.com/EidHTMM.png">
-        <img height="80" src="https://i.imgur.com/Ne7Od89.png">
-        <img height="80" src="https://i.imgur.com/ZX6szY9.png">
+        <img height="100"  src="https://i.imgur.com/EidHTMM.png">
+        <img height="100" src="https://i.imgur.com/mbYcxLL.png">
+        <img height="100" src="https://i.imgur.com/rFgHNj3.png">
     </div>
     <div aling="end">
-        <img height="80" src="https://i.imgur.com/bbO0o5r.png">
-        <img height="80" src="https://i.imgur.com/2rJUPBO.png">
+        <img height="100" src="https://i.imgur.com/CuRnHnX.png>
+        <img height="100" src="https://i.imgur.com/Hr7PvR9.png">
+        <img height="100" src="https://i.imgur.com/lBfbmFC.png">
     </div>
 </center>
 
