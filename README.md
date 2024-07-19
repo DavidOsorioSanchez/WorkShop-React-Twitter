@@ -1,4 +1,4 @@
-<h3>WorkShop React For Beginners 💻⚛️</h3>
+<h1>WorkShop React For Beginners 💻⚛️</h1>
   
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <br>
