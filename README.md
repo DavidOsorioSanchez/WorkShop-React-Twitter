@@ -1,4 +1,4 @@
-<font color="#00acee" size="5"><b>WorkShop React For Beginners 💻⚛️</b></font>
+<h3WorkShop React For Beginners 💻⚛️</h3>
   
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <br>
