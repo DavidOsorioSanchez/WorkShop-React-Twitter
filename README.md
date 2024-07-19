@@ -8,7 +8,7 @@ Currently, two official plugins are available:
 - [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 
 <h3>Paleta de colores de la pagina 🎨</h3>
-<div style="display: flex; gap: 10px">
+<center style="display: flex;">
     <div style="color: #fffff; background-color: #15202b; padding: 10px; width: 150px; border-radius: 5px;">
         #15202b
     </div>
@@ -24,4 +24,4 @@ Currently, two official plugins are available:
     <div style="color: #fffff; background-color: #8899ac; padding: 10px; width: 150px; border-radius: 5px;">
         #8899ac
     </div>
-</div>
+</center>
