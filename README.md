@@ -22,6 +22,6 @@ Currently, two official plugins are available:
 </center>
 
 <br>
-<h1>Pagina que aspiramos a crear </h1>
+<h1>Pagina que aspiramos a crear 🗒️</h1>
 
 <img src="https://www.softzone.es/app/uploads-softzone.es/2023/11/bluesky.jpg" >
