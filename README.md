@@ -36,5 +36,5 @@ Currently, two official plugins are available:
 <img src="https://www.softzone.es/app/uploads-softzone.es/2023/11/bluesky.jpg" >
 
 <br>
-<h1>Lista de pasos 📜</h1>
+<h3>Lista de pasos 📜</h3>
 
