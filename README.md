@@ -1,4 +1,4 @@
-<h2>WorkShop React For Beginners 💻⚛️</h2>
+<h1>WorkShop React For Beginners 💻⚛️</h1>
 <br>
 ##React + Vite
 
