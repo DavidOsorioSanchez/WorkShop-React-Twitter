@@ -1,4 +1,4 @@
-<h3>WorkShop React For Beginners 💻⚛️</h3>
+<h2>WorkShop React For Beginners 💻⚛️</h2>
 <br>
 ##React + Vite
 
@@ -9,7 +9,7 @@ Currently, two official plugins are available:
 - [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
 - [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 
-<h3 aling="center">Paleta de colores de la pagina 🎨</h3>
+<h2 aling="center">Paleta de colores de la pagina 🎨</h2>
   
 
 <br>
@@ -27,12 +27,12 @@ Currently, two official plugins are available:
 </center>
 
 <br>
-<h3>Pagina que aspiramos a crear 🗒️</h3>
+<h2>Pagina que aspiramos a crear 🗒️</h2>
   
 
 
 <img src="https://www.softzone.es/app/uploads-softzone.es/2023/11/bluesky.jpg" >
 
 <br>
-<h3>Lista de pasos 📜</h3>
+<h2>Lista de pasos 📜</h2>
 
