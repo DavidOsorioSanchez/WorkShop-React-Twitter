@@ -16,7 +16,7 @@ Currently, two official plugins are available:
         <img height="100" src="https://i.imgur.com/rFgHNj3.png">
     </div>
     <div aling="end">
-        <img height="100" src="https://i.imgur.com/CuRnHnX.png>
+        <img height="100" src="https://i.imgur.com/CuRnHnX.png">
         <img height="100" src="https://i.imgur.com/Hr7PvR9.png">
         <img height="100" src="https://i.imgur.com/lBfbmFC.png">
     </div>
