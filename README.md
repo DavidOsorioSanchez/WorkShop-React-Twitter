@@ -8,7 +8,7 @@ Currently, two official plugins are available:
 - [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
 - [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 
-<h3>Paleta de colores de la pagina 🎨</h3>
+<h3 aling="center">Paleta de colores de la pagina 🎨</h3>
 <div align="start">
     <img height="80" align="end" src="https://i.imgur.com/Oo912Da.png">
     <img height="80" src="https://i.imgur.com/Ne7Od89.png">
