@@ -11,7 +11,7 @@ Currently, two official plugins are available:
 <h3 aling="center">Paleta de colores de la pagina 🎨</h3>
 <center>
     <div align="start">
-        <img height="80" align="end" src="https://i.imgur.com/Oo912Da.png">
+        <img height="80"  src="https://i.imgur.com/EidHTMM.png">
         <img height="80" src="https://i.imgur.com/Ne7Od89.png">
         <img height="80" src="https://i.imgur.com/ZX6szY9.png">
     </div>
