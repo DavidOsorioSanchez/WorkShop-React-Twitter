@@ -9,7 +9,7 @@ Currently, two official plugins are available:
 - [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 
 <h3>Paleta de colores de la pagina 🎨</h3>
-    <img height="80" src="https://i.imgur.com/Oo912Da.png">
+    <img height="80" aling="center" src="https://i.imgur.com/Oo912Da.png">
     <img height="80" src="https://i.imgur.com/Ne7Od89.png">
     <img height="80" src="https://i.imgur.com/ZX6szY9.png">
     <img height="80" src="https://i.imgur.com/bbO0o5r.png">
