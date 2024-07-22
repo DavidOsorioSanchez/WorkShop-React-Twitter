@@ -86,7 +86,7 @@ Currently, two official plugins are available:
     <p>React utiliza un DOM virtual para mejorar el rendimiento. Comparando el estado actual del DOM virtual con el estado previo, React determina los cambios mínimos necesarios para actualizar el DOM real, lo que mejora significativamente el rendimiento en aplicaciones grandes y dinámicas.</p>
   </ol>
 </ul>
-<div aling="center"><img src="https://kinsta.com/es/wp-content/uploads/sites/8/2023/10/ai-powered-image-generator-app-with-react-dall-e-1.jpg" height="250" ></div>
+<p aling="center"><img src="https://kinsta.com/es/wp-content/uploads/sites/8/2023/10/ai-powered-image-generator-app-with-react-dall-e-1.jpg" height="250" ></p>
 
 <br>
 <h2>Implementacion habitual de React 🧑‍💻</h2>
