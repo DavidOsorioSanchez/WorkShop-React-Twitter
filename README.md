@@ -126,6 +126,9 @@ Currently, two official plugins are available:
 <br>
 <h2>Instalacion habitual de React 💾⚛️</h2>
 <a href="https://es.react.dev/" target="_blank" align="center">
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" height="50">
+</a>
+<a href="https://www.npmjs.com/" target="-blank">
+  <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" height="50">
 </a>
 
