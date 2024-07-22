@@ -132,5 +132,5 @@ Currently, two official plugins are available:
 <a href="https://www.npmjs.com/" target="-blank" align="center">
   <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" height="40">
 </a>
-<p align="center"><code>hola</code></p>
+<p height="30" width="50"><code>npm create vite@latest</code></p>
 
