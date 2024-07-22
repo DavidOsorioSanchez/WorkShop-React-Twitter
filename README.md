@@ -34,5 +34,16 @@ Currently, two official plugins are available:
 <img src="https://www.softzone.es/app/uploads-softzone.es/2023/11/bluesky.jpg" >
 
 <br>
-<h2>Lista de pasos 📜</h2>
-
+<h2>Ventajas de aplicar React 📜</h2>
+<ul>
+      <li><strong>Componentes:</strong> Representación modular de la interfaz de usuario.</li>
+      <li><strong>JSX:</strong> Sintaxis para escribir HTML dentro de JavaScript.</li>
+      <li><strong>Estado (State):</strong> Gestión interna de datos en los componentes.</li>
+      <li><strong>Propiedades (Props):</strong> Datos que se pasan de padres a hijos.</li>
+      <li><strong>Renderizado condicional:</strong> Mostrar elementos basados en condiciones.</li>
+      <li><strong>Eventos:</strong> Manejo de eventos del DOM.</li>
+      <li><strong>Ciclo de vida de los componentes:</strong> Métodos para gestionar el ciclo de vida.</li>
+      <li><strong>Hooks:</strong> Funciones para usar estado y características de React en componentes funcionales.</li>
+      <li><strong>Composición de componentes:</strong> Construcción de interfaces usando componentes reutilizables.</li>
+      <li><strong>Virtual DOM:</strong> Representación ligera del DOM para mejorar el rendimiento.</li>
+    </ul>
