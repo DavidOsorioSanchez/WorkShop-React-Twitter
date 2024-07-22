@@ -132,5 +132,5 @@ Currently, two official plugins are available:
 <a href="https://www.npmjs.com/" target="-blank" align="center">
   <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" height="40">
 </a>
-<img src="https://i.imgur.com/Odpjh5k.jpeg">
+<p align="center"><img src="https://i.imgur.com/sZrHQKL.png" height="60"></p>
 
