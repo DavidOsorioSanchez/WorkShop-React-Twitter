@@ -122,3 +122,10 @@ Currently, two official plugins are available:
   </ol>
 </ul>
 <p align="center"><img src="https://www.pragma.co/hs-fs/hubfs/frontend%202.png?width=512&name=frontend%202.png" height="440" ></p>
+
+<br>
+<h2>Instalacion habitual de React 💾⚛️</h2>
+<a src="https://es.react.dev/" align="center">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+</a>
+
