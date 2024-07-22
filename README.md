@@ -102,43 +102,23 @@ Currently, two official plugins are available:
   </ol>
 
   <ol>
-    <h4>3. Estado (State)</h4>
-    <p>Los componentes en React pueden tener estado interno gestionado a través del objeto <code>state</code>. Cuando el estado cambia, React se encarga de actualizar automáticamente el DOM para reflejar estos cambios.</p>
+    <h4>3. Aplicaciones Móviles</h4>
+    <p>Con React Native, puedes desarrollar aplicaciones móviles nativas para iOS y Android utilizando React y JavaScript.</p>
   </ol>
 
   <ol>
-    <h4>4. Propiedades (Props)</h4>
-    <p>Los props son objetos que permiten pasar datos de un componente padre a un componente hijo. Son inmutables dentro del componente hijo.</p>
+    <h4>4. Aplicaciones de Escritorio</h4>
+    <p>Utilizando frameworks como Electron junto con React, puedes construir aplicaciones de escritorio multiplataforma utilizando tecnologías web.</p>
   </ol>
 
   <ol>
-    <h4>5. Renderizado Condicional</h4>
-    <p>Permite renderizar diferentes elementos o componentes basados en ciertas condiciones. Se puede utilizar <code>if</code>, operadores ternarios, o métodos como <code>map</code> para iterar sobre listas y renderizar elementos condicionalmente.</p>
+    <h4>5. Integración con otras Tecnologías y Frameworks</h4>
+    <p>React se puede integrar con una variedad de bibliotecas y frameworks para manejar diferentes aspectos de una aplicación, como gestión de estado (Redux, Context API), enrutamiento (React Router), manejo de formularios, etc.</p>
   </ol>
 
   <ol>
-    <h4>6. Eventos</h4>
-    <p>React maneja los eventos del DOM de manera similar a JavaScript nativo, pero utiliza una sintaxis camelCase (por ejemplo, <code>onClick</code> en lugar de <code>onclick</code>). Los eventos pueden ser manejados por métodos específicos en los componentes.</p>
-  </ol>
-
-  <ol>
-    <h4>7. Ciclo de Vida de los Componentes</h4>
-    <p>Los componentes de clase en React tienen métodos del ciclo de vida como <code>componentDidMount</code>, <code>componentDidUpdate</code> y <code>componentWillUnmount</code>, que permiten realizar acciones en diferentes etapas del ciclo de vida del componente.</p>
-  </ol>
-
-  <ol>
-    <h4>8. Hooks</h4>
-    <p>Introducidos en React 16.8, los hooks son funciones que permiten usar estado y otras características de React sin escribir una clase. Algunos hooks comunes son <code>useState</code>, <code>useEffect</code>, <code>useContext</code>, etc.</p>
-  </ol>
-
-  <ol>
-    <h4>9. Composición de Componentes</h4>
-    <p>Los componentes en React se pueden componer unos dentro de otros, lo que facilita la construcción de interfaces de usuario complejas a partir de componentes más simples y reutilizables.</p>
-  </ol>
-
-  <ol>
-    <h4>10. Virtual DOM (DOM Virtual)</h4>
-    <p>React utiliza un DOM virtual para mejorar el rendimiento. Comparando el estado actual del DOM virtual con el estado previo, React determina los cambios mínimos necesarios para actualizar el DOM real, lo que mejora significativamente el rendimiento en aplicaciones grandes y dinámicas.</p>
+    <h4>6. Optimización de Rendimiento</h4>
+    <p>React tiene herramientas y técnicas incorporadas para optimizar el rendimiento de las aplicaciones, como el uso del Virtual DOM y la optimización de re-renderizados.</p>
   </ol>
 </ul>
 <p align="center"><img src="https://www.pragma.co/hs-fs/hubfs/frontend%201.png?width=512&name=frontend%201.png" height="440" ></p>
