@@ -90,7 +90,7 @@ Currently, two official plugins are available:
 <p align="center"><img src="https://kinsta.com/es/wp-content/uploads/sites/8/2023/10/ai-powered-image-generator-app-with-react-dall-e-1.jpg" height="440" ></p>
 
 <br>
-<h2>Implementacion habitual de React 🧑‍💻</h2>
+<h2>Implementacíon habitual de React 🧑‍💻</h2>
 <ul>
   <ol>
     <h4>1. Desarrollo Frontend </h4>
