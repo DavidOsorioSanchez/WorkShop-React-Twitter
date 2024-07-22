@@ -141,3 +141,4 @@ Currently, two official plugins are available:
     <p>React utiliza un DOM virtual para mejorar el rendimiento. Comparando el estado actual del DOM virtual con el estado previo, React determina los cambios mínimos necesarios para actualizar el DOM real, lo que mejora significativamente el rendimiento en aplicaciones grandes y dinámicas.</p>
   </ol>
 </ul>
+<p align="center"><img src="https://www.pragma.co/hs-fs/hubfs/frontend%201.png?width=512&name=frontend%201.png" height="440" ></p>
