@@ -9,7 +9,7 @@ Currently, two official plugins are available:
 - [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
 - [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 
-<h2 aling="center">Paleta de colores de la pagina 🎨</h2>
+<h2 aling="center">Paleta de colores de la página 🎨</h2>
   
 
 <br>
@@ -27,7 +27,7 @@ Currently, two official plugins are available:
 </center>
 
 <br>
-<h2>Pagina que aspiramos a crear 🗒️</h2>
+<h2>Página que aspiramos a crear 🗒️</h2>
   
 
 
