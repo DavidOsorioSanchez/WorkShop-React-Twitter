@@ -38,17 +38,17 @@ Currently, two official plugins are available:
 <ul>
   <ol>
     <h4>1. Componentes</h4>
-    <p>React se basa en componentes reutilizables que representan partes de la interfaz de usuario.</p>
+    <p>React se basa en componentes reutilizables que representan partes de la interfaz de usuario. Estos componentes pueden ser simples (funcionales) o complejos (clases).</p>
   </ol>
 
   <ol>
     <h4>2. JSX (JavaScript XML)</h4>
-    <p>Extensión de JavaScript que permite escribir código HTML dentro de JavaScript. Facilita la creación de estructuras de componentes de manera declarativa.</p>
+    <p>Es una extensión de JavaScript que permite escribir código HTML dentro de JavaScript. Facilita la creación de estructuras de componentes de manera declarativa.</p>
   </ol>
 
   <ol>
     <h4>3. Estado (State)</h4>
-    <p>Los componentes en React pueden tener estado interno gestionado a través del objeto <code>state</code>. Cuando el estado cambia, React actualiza automáticamente el DOM para reflejar estos cambios.</p>
+    <p>Los componentes en React pueden tener estado interno gestionado a través del objeto <code>state</code>. Cuando el estado cambia, React se encarga de actualizar automáticamente el DOM para reflejar estos cambios.</p>
   </ol>
 
   <ol>
