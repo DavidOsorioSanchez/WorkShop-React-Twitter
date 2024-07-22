@@ -27,11 +27,12 @@ Currently, two official plugins are available:
 </center>
 
 <br>
-<h2>Página que aspiramos a crear 🗒️</h2>
+<h2>Objetivo de la clase 🗒️</h2>
   
 
 
 <img src="https://www.softzone.es/app/uploads-softzone.es/2023/11/bluesky.jpg" >
+<p align="center">El objetivo con este WorkShop es crear es hacer una página similar a la del ejemplo(X).</p>
 
 <br>
 <h2>Ventajas de aplicar React 📜</h2>
