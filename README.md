@@ -121,4 +121,4 @@ Currently, two official plugins are available:
     <p>React tiene herramientas y técnicas incorporadas para optimizar el rendimiento de las aplicaciones, como el uso del Virtual DOM y la optimización de re-renderizados.</p>
   </ol>
 </ul>
-<p align="center"><img src="https://www.pragma.co/hs-fs/hubfs/frontend%201.png?width=512&name=frontend%201.png" height="440" ></p>
+<p align="center"><img src="https://www.pragma.co/hs-fs/hubfs/frontend%202.png?width=512&name=frontend%202.png" height="440" ></p>
