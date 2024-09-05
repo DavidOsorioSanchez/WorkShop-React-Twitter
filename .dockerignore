@@ -1,0 +1,4 @@
+# Gitignore para Docker
+
+# para no incluir archivos de la carpeta node_modules en la imagen
+node_modules
