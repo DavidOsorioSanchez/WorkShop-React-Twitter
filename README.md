@@ -22,7 +22,7 @@ Currently, two official plugins are available:
     <div aling="end">
         <img height="100" src="https://i.imgur.com/CuRnHnX.png">
         <img height="100" src="https://i.imgur.com/Hr7PvR9.png">
-        <img height="100" src="https://i.imgur.com/lBfbmFC.png">
+        <img height="100" src="https://i.imgur.com/9aRdiSf.png">
     </div>
 </center>
 
