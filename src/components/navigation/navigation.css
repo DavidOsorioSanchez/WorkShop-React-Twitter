@@ -4,17 +4,15 @@ a {
 
 .navigations-sidebar {
     width: 100%;
-    height: auto;
+    height: 100%;
     padding-top: 0.8rem;
     padding-bottom: 0.8rem;
-    display: flex;
-    justify-content: start;
-    align-items: end;
+    display: inline-flex;
+    align-items: center;
     cursor: default;
     background-color: var(--dark-black);
     color: var(--white);
     
-    padding-left: 2.5rem;
 }
 
 .navigation-icons{
@@ -40,6 +38,7 @@ a {
     color: var(--white);
     padding: 1rem 2rem;
     text-align: center;
+    justify-content: start;
     text-decoration: none;
     display: inline-block;
     cursor: pointer;
@@ -66,3 +65,4 @@ a {
     background-color: var(--dark-black);
     border: none;
 }
+
