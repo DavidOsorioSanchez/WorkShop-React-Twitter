@@ -3,10 +3,10 @@ import Main from "@components/main/main"
 import Actionbar from "./components/actionbar/Actionbar"
 export default function App() {
   return (
-    <>
+    <div className="app">
       <Sidebar />
       <Main/>
       <Actionbar/>
-    </>
+    </div>
   )
 }

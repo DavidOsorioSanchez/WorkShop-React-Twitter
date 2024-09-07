@@ -1,15 +1,13 @@
-import { Corazon } from "@assets/icons/Icon.jsx"
+import NavbarMain from "@components/main/NavbarMain.jsx"
+import "./main.css"
+
 export default function Main(){
     return(
         <main>
-            <nav>
-                <p className="tittle-nav">
-                    Blacksky
-                </p>
-                <div className="container-nav">
-                    <Corazon/>
-                </div>
-            </nav>
+            <NavbarMain />
+            <div className="main-content">
+                hola
+            </div>
         </main>
     )
 }
