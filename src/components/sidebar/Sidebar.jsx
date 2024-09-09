@@ -7,9 +7,11 @@ export default function Sidebar() {
     return (
         // componente para mostrar el sidebar
         <aside>
-            <SidebarHeader />
-            <SidebarMiddle />
-            <SidebarFooter />
+            <div className="sub-sidebar">
+                <SidebarHeader />
+                <SidebarMiddle />
+                <SidebarFooter />
+            </div>
         </aside>
     )
 }

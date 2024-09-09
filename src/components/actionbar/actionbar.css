@@ -1,5 +1,6 @@
 .actionbar{
     width: 100%;
+    max-width: 28vw;
     height: 100vh;
-    background-color: var(--light-black);
+    background-color: var(--blue);
 }
