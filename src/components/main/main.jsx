@@ -30,7 +30,7 @@ export default function Main() {
                         likes={4}
                         comments={1}
                         numberReplay={2}
-                        imageDescription="https://picsum.photos/200/200"
+                        imageDescription="https://picsum.photos/200/100"
                     />
                 </CardsGroups>
                 <CardsGroups>
@@ -59,7 +59,7 @@ export default function Main() {
                         likes={9}
                         comments={3}
                         numberReplay={2}
-                        imageDescription="https://picsum.photos/200/300"
+                        imageDescription="https://picsum.photos/200/500"
                     />
                     <CardMain
                         name="Stiven Loaiza"
