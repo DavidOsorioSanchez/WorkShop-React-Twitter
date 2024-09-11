@@ -16,7 +16,7 @@ export default function NavbarMain() {
                     url="#"
                     className="button-main"
                 />
-                <Ellipsis className="icon-nav" />
+                <Ellipsis className="icon-nav icon-ellipsis" />
             </div>
         </nav>
     )

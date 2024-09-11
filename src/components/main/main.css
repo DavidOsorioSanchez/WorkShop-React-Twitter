@@ -45,8 +45,15 @@ nav{
     height: 1.5rem;
 }
 
+.icon-ellipsis{
+    cursor: pointer;
+}
+
+.icon-heart{
+    cursor: pointer;
+}
+
 .icon-heart:hover{
-    transition: all 0.3s ease-in-out;
     fill: var(--white);
 }
 
@@ -55,6 +62,7 @@ nav{
     background-color: var(--white);
     color: var(--dark-black);
     padding: 0rem 1rem;
+    cursor: cell; 
 }
 
 .icon-nav:hover{

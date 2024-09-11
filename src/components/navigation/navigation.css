@@ -13,7 +13,7 @@ a {
     border-radius: 50px;
     display: inline-flex;
     align-items: center;
-    cursor: default;
+    cursor: pointer;
     background-color: var(--dark-black);
     color: var(--white); 
 }
