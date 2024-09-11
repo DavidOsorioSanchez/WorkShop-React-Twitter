@@ -105,7 +105,9 @@ header{
 .terms-component{
     width: 100%;
     height: fit-content;
-    display: inline-flex;
+    display: flex;
+    flex-wrap: wrap;
+
     gap: 1rem;
     padding: 1.5rem 0.5rem;
     border-bottom: var(--white) solid 0.1rem;

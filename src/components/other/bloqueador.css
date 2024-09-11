@@ -1,0 +1,19 @@
+.blocker{
+    width: 110vw;
+    height: 100vh;
+    display: none;
+    justify-content: center;
+    align-items: center;
+    background-color: var(--dark-black);
+    color: var(--white);
+    position: absolute !important;
+    top: 0;
+    left: 0;
+    z-index: 100;
+}
+
+@media only screen and (max-width: 900px) {
+    .blocker{
+        display: flex;
+    }
+}
