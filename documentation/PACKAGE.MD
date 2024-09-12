@@ -4,7 +4,9 @@
 El <code>package.json</code> es un archivo de configuración que contiene <b>información sobre el proyecto</b>, como su <i>nombre</i>, <i>versión</i>, <i>dependencias</i> y <i>scripts</i> que se ejecutan cuando se ejecuta el comando <code>npm run</code>.
 </p>
 
-<img src="https://i.imgur.com/XvpaizO.png" alt="package.json" width="170" >
+<div align="center">
+  <img src="https://i.imgur.com/XvpaizO.png" alt="package.json" width="170" >
+</div>
 
 <h3 > package.json resumido por tipo de datos. 🧾</h3>
 
@@ -99,7 +101,9 @@ El <code>package.json</code> es un archivo de configuración que contiene <b>inf
 El <code>package-lock</code> Garantiza que todos los entornos de desarrollo tengan exactamente <b> las mismas dependencias</b>, <i>evitando problemas de compatibilidad</i> y <i>asegurando que el proyecto se comporte de manera consistente en diferentes máquinas</i>.
 </p>
 
-<img src="https://i.imgur.com/WVS7uOX.png" alt="package.json" width="170" >
+<div align="center">
+  <img src="https://i.imgur.com/WVS7uOX.png" alt="package.json" width="170" >
+</div>
 
 <h3 > package-lock.json resumido por tipo de datos. 🧾</h3>
 
