@@ -1,9 +1,5 @@
 <h1 align="center">Para que sirve el .gitignore? 📑</h1>
 
-<div align="center">
-  <img src="https://i.imgur.com/Cug12UH.png" alt="gitignore" width="170" >
-</div>
-
 <p>
     El archivo <code>.gitignore</code> es un archivo que se utiliza para especificar un conjunto de archivos y carpetas que Git debe ignorar cuando se realiza un commit.
     <br>
@@ -11,6 +7,9 @@
     Por lo general suele excluir archivos y carpetas que no son necesarios para el funcionamiento del proyecto, como archivos de configuración, archivos de datos, archivos de pruebas, etc.
 </p>
 
+<div align="center">
+  <img src="https://i.imgur.com/Cug12UH.png" alt="gitignore" width="170" >
+</div>
 
 
 <h2> Archivos y carpetas que se deben incluir en el repositorio. 🧾</h2>

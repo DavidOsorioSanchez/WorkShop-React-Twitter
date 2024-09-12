@@ -64,7 +64,7 @@ El <code>package.json</code> es un archivo de configuración que contiene <b>inf
     </dd>
 </dl>
 
-<img src="https://i.imgur.com/xYf1MG2.png" alt="package.json" width="800" >
+<img src="https://i.imgur.com/xYf1MG2.png" alt="package.json" width="600" >
 
 <!-- 
   ***codigo fuente***
@@ -147,7 +147,7 @@ Los parametros entre los archivos <code>package.json</code> y <code>package-lock
     </dd> 
 </dl>
 
-<img src="https://i.imgur.com/XjFRrYr.png" alt="package-lock.json" width="800" >
+<img src="https://i.imgur.com/XjFRrYr.png" alt="package-lock.json" width="600" >
 
 <!--
    *** codigo fuente *** 
