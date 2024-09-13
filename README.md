@@ -49,10 +49,10 @@ Currently, two official plugins are available:
 </ol>
 
 <p align="center"><img src="https://i.imgur.com/sZrHQKL.png" height="60"></p>
-<p align="center"><img src="https://i.imgur.com/9XY1aQE.png" height="60"></p>
-<p align="center"><img src="https://i.imgur.com/ooceyBX.png" height="60"></p>
-<p align="center"><img src="https://i.imgur.com/UcrhNJP.png" height="60"></p>
-<p align="center"><img src="https://i.imgur.com/fapYhHz.png" height="60"></p>
+<p align="center"><img src="https://i.imgur.com/9XY1aQE.png" height="25"></p>
+<p align="center"><img src="https://i.imgur.com/ooceyBX.png" height="25"></p>
+<p align="center"><img src="https://i.imgur.com/UcrhNJP.png" height="100"></p>
+<p align="center"><img src="https://i.imgur.com/fapYhHz.png" height="80"></p>
 
 
 
