@@ -48,11 +48,28 @@ Currently, two official plugins are available:
   <li>CMD o Bash</li>
 </ol>
 
-<p align="center"><img src="https://i.imgur.com/sZrHQKL.png" height="60"></p>
-<p align="center"><img src="https://i.imgur.com/9XY1aQE.png" height="25"></p>
-<p align="center"><img src="https://i.imgur.com/ooceyBX.png" height="25"></p>
-<p align="center"><img src="https://i.imgur.com/UcrhNJP.png" height="100"></p>
-<p align="center"><img src="https://i.imgur.com/fapYhHz.png" height="80"></p>
+<div align="center">
+    <h5>Comando para crear el proyecto.</h5>
+    <img src="https://i.imgur.com/sZrHQKL.png" height="60">
+</div>
+<div align="center">
+    <h5>Nombre del proyecto.</h5>
+    <img src="https://i.imgur.com/9XY1aQE.png" height="25">
+</div>
+<div align="center">
+    <h5>Nombre del Paquete.</h5>
+    <img src="https://i.imgur.com/ooceyBX.png" height="25">
+</div>
+<div align="center">
+    <h5>Selección de tecnología.</h5>
+    <img src="https://i.imgur.com/UcrhNJP.png" height="100">
+</div>
+<div align="center">
+    <h5>Selección entre TS y JS.</h5>
+    <img src="https://i.imgur.com/fapYhHz.png" height="80">
+</div>
+
+
 
 
 
