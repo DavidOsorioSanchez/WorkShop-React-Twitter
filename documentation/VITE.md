@@ -14,8 +14,8 @@
     VITE es una herramienta de desarrollo web que se utiliza para crear aplicaciones web de manera más rápida y eficiente. Es una alternativa a Webpack y otras herramientas de desarrollo web.
 </p>
 
-
+<div align="center">
   <img src="https://i.imgur.com/pVwWLkJ.png" alt="VITE" width="400" >
-
+</div>
 
 

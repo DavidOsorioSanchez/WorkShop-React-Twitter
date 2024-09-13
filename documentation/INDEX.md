@@ -26,6 +26,8 @@ El archivo <code>index.html</code> es el punto de entrada de tu aplicación web.
     </dd>
 </dl>
 
-<img src="https://i.imgur.com/CDMD8Re.png" alt="index.html" width="500" >
+<div align="center">
+  <img src="https://i.imgur.com/CDMD8Re.png" alt="index.html" width="500" >
+</div>
 
 
