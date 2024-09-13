@@ -17,7 +17,7 @@ Currently, two official plugins are available:
 <p align="center">El objetivo con este WorkShop es crear es hacer una página similar a la del ejemplo(X).</p>
 
 <br>
-<h2 align="center">Paleta de colores de la página 🎨</h2>
+<h2 >Paleta de colores de la página 🎨</h2>
 <div align="center">
     <div align="center">
         <img height="100"  src="https://i.imgur.com/aKSIt5q.png">
