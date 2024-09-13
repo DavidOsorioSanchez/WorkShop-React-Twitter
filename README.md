@@ -18,8 +18,8 @@ Currently, two official plugins are available:
 
 <br>
 <h2 aling="center">Paleta de colores de la página 🎨</h2>
-<div>
-    <div align="start">
+<div aling="center">
+    <div aling="start">
         <img height="100"  src="https://i.imgur.com/aKSIt5q.png">
         <img height="100" src="https://i.imgur.com/NDt5UfU.png">
         <img height="100" src="https://i.imgur.com/BDTGtIU.png">
