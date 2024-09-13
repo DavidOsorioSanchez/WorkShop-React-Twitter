@@ -166,6 +166,3 @@ Currently, two official plugins are available:
 
 <br>
 
-<h2>Ventajas de aplicar React 📜</h2>
-
-
