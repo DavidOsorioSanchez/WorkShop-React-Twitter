@@ -19,12 +19,12 @@ Currently, two official plugins are available:
 <br>
 <h2 align="center">Paleta de colores de la página 🎨</h2>
 <div align="center">
-    <div align="start">
+    <div align="center">
         <img height="100"  src="https://i.imgur.com/aKSIt5q.png">
         <img height="100" src="https://i.imgur.com/NDt5UfU.png">
         <img height="100" src="https://i.imgur.com/BDTGtIU.png">
     </div>
-    <div align="end">
+    <div align="center">
         <img height="100" src="https://i.imgur.com/A5Y4WYT.png">
         <img height="100" src="https://i.imgur.com/uBWDOGe.png">
         <img height="100" src="https://i.imgur.com/AmMWLSN.png">
