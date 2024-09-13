@@ -6,16 +6,13 @@
 
 :root {
     --dark-black: #010102;
-    --standard-black: #1f2d3d;
     --light-black: #22303c;
     --white: #fefcff;
-    --gray: #252e35;
+    --gray: #2e3438;
     --blue: #005ac2;
     --light-blue: #0288f5;
-
+    
     --font-family: 'Poppins', sans-serif;
-
-    overflow-y: scroll;
 }
 
 * {

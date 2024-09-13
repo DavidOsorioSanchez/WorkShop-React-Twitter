@@ -9,31 +9,49 @@ Currently, two official plugins are available:
 - [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
 - [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 
-<h2 aling="center">Paleta de colores de la página 🎨</h2>
-  
-
 <br>
-<center>
-    <div align="start">
-        <img height="100"  src="https://i.imgur.com/EidHTMM.png">
-        <img height="100" src="https://i.imgur.com/mbYcxLL.png">
-        <img height="100" src="https://i.imgur.com/rFgHNj3.png">
-    </div>
-    <div aling="end">
-        <img height="100" src="https://i.imgur.com/CuRnHnX.png">
-        <img height="100" src="https://i.imgur.com/Hr7PvR9.png">
-    </div>
-</center>
 
-<br>
 <h2>Objetivo de la clase 🗒️</h2>
-  
-
 
 <img src="https://www.softzone.es/app/uploads-softzone.es/2023/11/bluesky.jpg" >
 <p align="center">El objetivo con este WorkShop es crear es hacer una página similar a la del ejemplo(X).</p>
 
 <br>
+<h2 aling="center">Paleta de colores de la página 🎨</h2>
+<div>
+    <div align="start">
+        <img height="100"  src="https://i.imgur.com/aKSIt5q.png">
+        <img height="100" src="https://i.imgur.com/NDt5UfU.png">
+        <img height="100" src="https://i.imgur.com/BDTGtIU.png">
+    </div>
+    <div aling="end">
+        <img height="100" src="https://i.imgur.com/A5Y4WYT.png">
+        <img height="100" src="https://i.imgur.com/uBWDOGe.png">
+        <img height="100" src="https://i.imgur.com/AmMWLSN.png">
+    </div>
+</div>
+
+<br>
+
+<h2>Instalación habitual de React 💾⚛️</h2>
+<a href="https://es.react.dev/" target="_blank" align="center">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" height="40">
+</a>
+<a href="https://www.npmjs.com/" target="-blank" align="center">
+  <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" height="40">
+</a>
+<br>
+<h3>Herramientas requeridas 🛠️</h3>
+<ol>
+  <li>Node.js</li>
+  <li>NPM</li>
+  <li>CMD o Bash</li>
+</ol>
+
+<p align="center"><img src="https://i.imgur.com/sZrHQKL.png" height="60"></p>
+
+<br>
+
 <h2>Ventajas de aplicar React 📜</h2>
 <ul>
   <ol>
@@ -124,19 +142,5 @@ Currently, two official plugins are available:
 <p align="center"><img src="https://www.pragma.co/hs-fs/hubfs/frontend%202.png?width=512&name=frontend%202.png" height="440" ></p>
 
 <br>
-<h2>Instalación habitual de React 💾⚛️</h2>
-<a href="https://es.react.dev/" target="_blank" align="center">
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" height="40">
-</a>
-<a href="https://www.npmjs.com/" target="-blank" align="center">
-  <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" height="40">
-</a>
-<br>
-<h3>Herramientas requeridas 🛠️</h3>
-<ol>
-  <li>Node.js</li>
-  <li>NPM</li>
-  <li>CMD o Bash</li>
-</ol>
-<p align="center"><img src="https://i.imgur.com/sZrHQKL.png" height="60"></p>
+
 
