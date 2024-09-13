@@ -17,14 +17,14 @@ Currently, two official plugins are available:
 <p align="center">El objetivo con este WorkShop es crear es hacer una página similar a la del ejemplo(X).</p>
 
 <br>
-<h2 aling="center">Paleta de colores de la página 🎨</h2>
-<div aling="center">
-    <div aling="start">
+<h2 align="center">Paleta de colores de la página 🎨</h2>
+<div align="center">
+    <div align="start">
         <img height="100"  src="https://i.imgur.com/aKSIt5q.png">
         <img height="100" src="https://i.imgur.com/NDt5UfU.png">
         <img height="100" src="https://i.imgur.com/BDTGtIU.png">
     </div>
-    <div aling="end">
+    <div align="end">
         <img height="100" src="https://i.imgur.com/A5Y4WYT.png">
         <img height="100" src="https://i.imgur.com/uBWDOGe.png">
         <img height="100" src="https://i.imgur.com/AmMWLSN.png">
